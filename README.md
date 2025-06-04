@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello there! This is my first readme file here. I'd like to do some great things here as I am learning new things.
 <!--
 **andrez755/andrez755** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
